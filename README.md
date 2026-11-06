@@ -3,7 +3,7 @@
 
 # 👋 Hello, I'm Assem Habashy
 
-### 💻 Programmer | 🎨 Graphic Designer
+### 💻 Computer Science Student | 👨‍💻 Programmer | 🎨 Graphic Designer
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Welcome to My Creative World! " width="60%"/> <br>
 
