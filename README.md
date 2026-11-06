@@ -1,49 +1,78 @@
 
-<div align="center">
+<div align="center" width="50">
 
 # 👋 Hello, I'm Assem Habashy
 
-### 💻 Programmer | 🎨 Graphic Designer | 🖌️ Canva Designer
+### 💻 Programmer | 🎨 Graphic Designer
 
-**Computer Science & Information Student**
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Computer+Science+Student;C+%26+Java+Programmer;Graphic+Designer;Canva+%26+Photoshop+Designer;Always+Learning+New+Things!" width="100%" alt="Typing SVG"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" alt="Coding"/>
+<details>
+<summary><strong>🎵 Busy Coding & Vibing To:</strong></summary>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/)
+
+</details>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=blueviolet&label=PROFILE+VIEWS)
 
 </div>
+
+<hr>
+
+## 🚀 Tools I Use
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+
+```java
+// tools_I_use organized
+
+class AboutMe {
+
+    String name = "Assem Habashy";
+    String education = "Computer Science & Information Student";
+
+    String[] programmingLanguages = {
+        "C",
+        "Java"
+    };
+
+    String[] designTools = {
+        "Canva",
+        "Adobe Photoshop"
+    };
+
+    String[] interests = {
+        "Programming",
+        "Graphic Design",
+        "Creative Thinking",
+        "Technology"
+    };
+}
+```
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science & Information Student.
-- 💻 Learning **C and Java Programming**.
-- 🎨 Passionate about **Graphic Design**.
-- 🖌️ Canva & Adobe Photoshop Designer.
-- 🚀 Always learning and improving my skills.
-- 💡 Interested in technology, creativity, and problem solving.
-
----
-
-## 🛠️ Tools & Technologies
-
-### 💻 Programming Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🎨 Graphic Design
-
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-### ⚙️ Other Tools
-
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25"/> &nbsp; I'm a **Computer Science & Information Student**.
+- 💻 &nbsp; I'm currently learning **C and Java Programming**.
+- 🎨 &nbsp; I'm passionate about **Graphic Design**.
+- 🖌️ &nbsp; I create designs using **Canva & Photoshop**.
+- 🚀 &nbsp; I enjoy learning new technologies and developing my skills.
+- 💡 &nbsp; Ask me about **Programming, Graphic Design, and Canva**.
+- 🎯 &nbsp; My goal is to become a professional **Programmer & Designer**.
 
 ---
 
@@ -51,11 +80,22 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="32.5%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img width="32.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="32.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+<details>
+<summary><strong>More GitHub Stats</strong></summary>
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</details>
 
 </div>
 
@@ -63,23 +103,23 @@
 
 ## 🎯 Currently
 
-- 📚 Improving my programming knowledge.
-- 💻 Practicing C and Java.
-- 🎨 Creating graphic designs with Canva and Photoshop.
-- 🌱 Learning something new every day.
+- 📚 Improving my programming skills.
+- 💻 Practicing C & Java.
+- 🎨 Developing my graphic design skills.
+- 🌱 Exploring new ideas and technologies.
 
 ---
 
-## 📫 Contact Me
+## 📫 Find Me
 
 <div align="center">
 
 <a href="mailto:assem.ph012@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -88,10 +128,20 @@
 
 <div align="center">
 
-### ⚡ Code. Design. Create. Repeat.
+## ⚡ Code. Design. Create.
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Debugging"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Working"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="Surprised"/>
+
+<br>
 
 **Thanks for visiting my profile! ❤️**
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blueviolet&label=PROFILE+VIEWS"/>
 
 </div>
