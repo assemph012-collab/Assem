@@ -31,8 +31,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 
 ```java
-// tools_I_use organized
-
 class AboutMe {
 
     String name = "Assem Habashy";
@@ -62,13 +60,12 @@ class AboutMe {
 
 ## 👨‍💻 About Me
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25"/> &nbsp; I'm a **Computer Science & Information Student**.
-- 💻 &nbsp; I'm interested in **C, Java, and JavaScript Programming**.
-- 🎨 &nbsp; I'm passionate about **Graphic Design**.
-- 🖌️ &nbsp; I create designs using **Canva & Adobe Photoshop**.
-- 🚀 &nbsp; I enjoy learning new technologies and developing my skills.
-- 💡 &nbsp; Ask me about **Programming, Graphic Design, and Canva**.
-- 🎯 &nbsp; My goal is to become a professional **Programmer & Designer**.
+- 💻 I'm a **Computer Science & Information Student**.
+- 🚀 I'm interested in **C, Java, and JavaScript Programming**.
+- 🎨 I'm passionate about **Graphic Design**.
+- 🖌️ I create designs using **Canva & Adobe Photoshop**.
+- 🌱 I enjoy learning new technologies and developing my skills.
+- 🎯 My goal is to become a professional **Programmer & Designer**.
 
 ---
 
@@ -118,8 +115,12 @@ class AboutMe {
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/assem._.gk?mdxt=cHk1aXIyMjF5Zjdn">
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://bio.site/AssemOctopus" target="_blank">
+<img src="https://img.shields.io/badge/My_Portfolio-Visit_My_Work-8A2BE2?style=for-the-badge"/>
 </a>
 
 </div>
@@ -145,4 +146,3 @@ class AboutMe {
 **Thanks for visiting my profile! ❤️**
 
 </div>
-
